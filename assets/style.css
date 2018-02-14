@@ -1,0 +1,67 @@
+html {
+	background-image: url(http://menmadeho.me/wp-content/uploads/great-website-background-colours-cool-web-page-color-at-within.jpg);
+	margin-top: -7px;
+}
+
+#crazyBackground {
+	background-image: url(https://openclipart.org/image/2400px/svg_to_png/249335/Prismatic-Geometric--Line-Art-Torus-No-Background.png);
+	float: right;
+	height:700px;
+	width: 100px;
+	margin-top: -25px;
+	margin-left: -300px;
+
+}
+
+
+h1 {
+	color: indigo;
+	font-family: "Megrim";
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 5px;
+
+
+}
+
+h2 {
+	color: indigo;
+	font-family: "Megrim";
+	margin-top: 10px;
+	font-weight: bold;
+	display: inline-block;
+	
+	
+}
+
+p {
+	font-family: "Bad Script";
+
+}
+
+#crystal {
+	float: left;
+	margin-right: 50px;
+}
+
+#images {
+	float: left;
+	margin-bottom: 50px;
+	margin-left: 32%;
+	margin-top: 20px;
+}
+
+#gametext {
+	float: left;
+	margin-left: -770px;
+}
+
+#result {
+	float:left;
+	margin-top: 140px;
+	margin-left: -300px;
+	font-size: 33px;
+	color: green;
+	font-family: "Megrim";
+}
+
